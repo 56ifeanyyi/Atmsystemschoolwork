@@ -1,0 +1,32 @@
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\bin\Debug\Coursework.exe
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\bin\Debug\Coursework.pdb
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.exe
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.pdb
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.ATMsystem.resources
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.Login.resources
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.Register.resources
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\bin\Debug\ClientDatabase.mdf
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\bin\Debug\ClientDatabase_log.ldf
+C:\Users\iUdeagwu\Aston\System Development module\Coursework submissions\Coursework\obj\Debug\Coursework.Pin.resources
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\bin\Debug\ClientDatabase.mdf
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\bin\Debug\ClientDatabase_log.ldf
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\bin\Debug\Coursework.exe
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\bin\Debug\Coursework.pdb
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.atmSystem.resources
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.Login.resources
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.Pin.resources
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.Register.resources
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.exe
+C:\Users\iUdeagwu\OneDrive - Anglian Water Services\Desktop\Coursework\obj\Debug\Coursework.pdb
